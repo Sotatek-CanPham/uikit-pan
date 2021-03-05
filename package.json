@@ -1,5 +1,5 @@
 {
-  "name": "@pancake-uikit-package/uikit",
+  "name": "pancake-uikit-package",
   "version": "0.13.1",
   "description": "Set of UI components for pancake projects",
   "main": "dist/index.cjs.js",
@@ -89,5 +89,8 @@
     "url": "https://github.com/pancakeswap/pancake-uikit/issues"
   },
   "homepage": "https://github.com/pancakeswap/pancake-uikit#readme",
-  "author": ""
+  "author": "",
+  "keywords": [
+    "pancake-uikit-package"
+  ]
 }
